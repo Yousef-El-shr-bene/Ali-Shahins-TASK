@@ -5,6 +5,12 @@ This is a [Next.js] project bootstrapped with [`create-next-app`].
 Run the following code in the terminal
 
 ```bash
+git clone https://github.com/Yousef-El-shr-bene/Ali-Shahins-TASK.git
+```
+
+then
+
+```bash
 cd my-app-task
 ```
 
